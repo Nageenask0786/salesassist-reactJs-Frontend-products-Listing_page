@@ -25,8 +25,6 @@ Deploying a single page on netlify with a dynamic product listing page section b
 ## Resources 
 ## Api
 ApiUrl to display products: https://fakestoreapi.com/products
-Apiurl to display specific product details: https://fakestoreapi.com/products/id
-
 ## Third Party Packages
 1.create-react-app 
 Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
